@@ -13,6 +13,16 @@ Dr Jacek Lewkowicz is an economist and a lawyer. He graduated from the Faculty o
 
 
 
+### Katarzyna Kopczewska, Doctor habilitatus
+
+
+*Coordinator for didactics and teaching*
+
+![Kopczewska]({{ site.github.url }}/assets/img/kopczewska.jpg){:class="img-responsive"}
+
+Dr hab. Katarzyna Kopczewska is the Vice-Dean for Students Affairs at the Faculty of Economic Sciences at the University of Warsaw. Dr hab. Kopczewska is supervising the syllabi and didactics of joint programs between the Faculty and universities in China. Her research interests include regional policy, spatial socio-economic development, specialization, public sector, local self-government and public policy.
+
+
 
 ### Kristóf Gyódi
 
@@ -46,6 +56,19 @@ Anna Lewczuk is a Phd Candidate at the Chair of Political Economy. She graduated
 
 
 Łukasz Matuszczak graduated in Statistics and Econometrics on the Faculty of Economic Sciences on Warsaw University (2011). At present he is a last year PhD Candidate at the Department of Macroeconomics and International Trade Theory. His area of interest are international trade (especially in services), balance of payments, macroeconomic statistics panel data analysis. He is a member of Balance of Payment Working Group (since 2015; responsible institution – EUROSTAT), International Trade in Services Statistics (since 2015; responsible institution – EUROSTAT), Mode of Supply Task Force (since 2017; responsible institution – EUROSTAT) and International Trade Group (since 2014; responsible institution – National Bank of Poland, Statistics Poland and Ministry of Finance).
+
+
+
+### Tomasz Janyst
+
+
+*Researcher*
+
+![Janyst]({{ site.github.url }}/assets/img/janyst.jpeg){:class="img-responsive"}
+
+Tomasz Janyst is layer at the Industrial and Commercial Bank of China (Europe) S.A., Head of the Board at the Kalecki Foundation, PhD Candidate at the Faculty of Law and Administration at the University of Warsaw, graduate of law and sinology at MISH at the University of Warsaw, banking at the Warsaw School of Economics and Collegium Invisibile. Tomasz has been awarded multiple times the scholarship of the Ministry of Higher Education and he is also scholarship holder of the Peking University. 
+
+
 
 
 
